@@ -12,9 +12,6 @@ I am a highly proficient backend engineer with extensive expertise in the develo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahaaslam1&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaaslam1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tahaaslam1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tahaaslam1&icon=5&color=13)](https://visitcount.itsvg.in)
 
