@@ -2,7 +2,7 @@
 
 As a versatile and detail-driven Software Engineer, I specialize in delivering scalable, efficient, and user-centric solutions across diverse industries. With over two years of professional experience, I have a proven track record in NetSuite ERP customizations, backend development, and creating cutting-edge SaaS platforms. My work focuses on optimizing processes, integrating systems, and developing robust digital products.
 
-I excel in building seamless integrations and custom frameworks that ensure efficiency and reliability. My experience includes implementing audit logging mechanisms, developing advanced queue systems for data synchronization, and integrating tools like DocuSign for workflow automation. I am adept at leveraging technologies such as React JS, Node.js, Flutter, AWS services, and Redis to create high-performing applications.
+I excel in building seamless integrations and custom frameworks that ensure efficiency and reliability. My experience includes implementing audit logging mechanisms, developing advanced queue systems for data synchronization, and integrating tools like DocuSign for workflow automation. I am adept at leveraging technologies such as React JS, Node JS, Flutter, AWS services, and Redis to create high-performing applications.
 
 Whether it's crafting intuitive interfaces, optimizing backend systems, or customizing ERP platforms, I aim to deliver solutions that meet business objectives and enhance user experiences. My skills in SaaS development, system integration, and data-driven problem-solving make me an asset to any team or project.
 
